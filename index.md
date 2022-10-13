@@ -1,4 +1,4 @@
-# The Perez's CLAN's secret recipes
+# The Perez's CLAN's mysterious recipes
 
 Set of recipes as given by my grandma.
 
