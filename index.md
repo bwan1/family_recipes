@@ -4,6 +4,6 @@ Set of recipes as given by my grandma.
 
 - pizzas
     - [base](./pizzas/base.md)
-    - [Margarita](./pizzas/Margarita.md")
+    - [Margarita](./pizzas/margarita.md")
 - sauces (TODO)
 - spreads (TODO)
